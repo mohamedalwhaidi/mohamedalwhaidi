@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=250&section=header&text=Hi%20,%20I'm%20Mohamed%20AlWhaidi&fontSize=55&fontColor=ffffff&fontAlignY=50&fontAlign=30&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Automation&descSize=20&descAlignY=65&descAlign=30" alt="hi" />
+<img align="center" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=220&section=header&text=Hi%20I'm%20Mohamed%20AlWhaidi&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation&descSize=18&descAlignY=60&animation=fadeIn" alt="Hi, I'm Mohamed AlWhaidi — Full-Stack Developer" />
 
 ## About Me
 
