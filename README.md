@@ -14,7 +14,7 @@
     </a>
 </p>
 
-- 👋 Hi, I'm **Mohamed AlWhaidi** 🇵🇸 — Full-Stack Developer @ **OneStudio**, based in Cairo, Egypt
+- 👋 Hi, I'm **Mohamed AlWhaidi** 🇵🇸 — Full-Stack Developer@[**OneStudio**](https://one-studio.co), based in Cairo, Egypt
 - 💼 I build production-grade apps with **Laravel · Flutter · Vue.js** and ship faster with **AI & Automation**
 - 🌱 I'm currently leveling up on **Vue 3 / Nuxt**, **AI agents**, and **n8n** workflows
 - 💞️ I'm open to collaborate on **Flutter packages**, **Laravel SaaS** ideas, and **AI-powered tooling**
